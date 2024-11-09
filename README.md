@@ -10,8 +10,9 @@ Lehner, B., Grill G. (2013). Global river hydrography and network routing: basel
 
 
 ## Portada
-
-![Mapa de la distribución de datos de HydroLakes o HydroBasins](distribucion.png)
+Mapa de la distribución de datos de HydroLakes o HydroBasins
+![distribution](distribucion.png)
 
 ## Descargas 
-![Opciones para descargar. En mi caso estuve analizando algunos shapes de South America con y sin lagos.](descargas.png)
+Opciones para descargar. En mi caso estuve analizando algunos shapes de South America con y sin lagos.
+![downloads](descargas.png)
